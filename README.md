@@ -2,4 +2,4 @@
 Clone do Netflix com apenas HTML, CSS e JS(OwlCarrousel)
 
 
-![netfliclone](https://user-images.githubusercontent.com/66763791/169401322-0e59f503-a8f8-4834-b432-067edf86c8db.jpeg)
+![image](https://user-images.githubusercontent.com/66763791/175752399-5506f5b6-1171-49db-8f8f-089e41dd10ca.png)
