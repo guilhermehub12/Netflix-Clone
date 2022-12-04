@@ -3,7 +3,9 @@
     --preto: #141414
 }
 
-* {
+*,
+*::before,
+*::after{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
@@ -13,7 +15,7 @@
 
 body {
     background: var(--preto);
-    font-family: 'Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-family: Arial,sans-serif;
     color: white;
 }
 
@@ -44,7 +46,7 @@ header nav a:hover {
 /* filme principal */
 .filme-principal {
     font-size: 16px;
-    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('imgs/capa-flash.jpg');
+    background: linear-gradient(rgba(0,0,0,.50), rgba(0,0,0,.50)100%), url('../imgs/capa-flash.jpg');
     
     height: 400px;
     background-size: cover;
